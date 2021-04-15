@@ -20,6 +20,6 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
 " Icons
- Plug 'ryanoasis/vim-devicons'
+Plug 'ryanoasis/vim-devicons'
 
 call plug#end()

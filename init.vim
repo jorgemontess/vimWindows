@@ -1,17 +1,17 @@
 " General
 
-source $HOME/.config/nvim/general/sets.vim
-source $HOME/.config/nvim/general/keys.vim
+source C:\Users\jomon\AppData\Local\nvim\general\sets.vim
+source C:\Users\jomon\AppData\Local\nvim\general\keys.vim
 
 " Plugins
 
-source $HOME/.config/nvim/plugins/plugins.vim
+source C:\Users\jomon\AppData\Local\nvim\plugins\plugins.vim
 
 " Plugins Configurations
 
-source $HOME/.config/nvim/plugins-conf/nerdTree.vim
-source $HOME/.config/nvim/plugins-conf/fzf.vim
+source C:\Users\jomon\AppData\Local\nvim\plugins-conf\nerdTree.vim
+source C:\Users\jomon\AppData\Local\nvim\plugins-conf\fzf.vim
 
 " Temas
 
-  "source $HOME/.config/nvim/themes/onedark.vim
+source C:\Users\jomon\AppData\Local\nvim\themes\onedark.vim
