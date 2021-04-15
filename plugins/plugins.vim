@@ -16,10 +16,7 @@ Plug 'joshdick/onedark.vim'
 Plug 'jiangmiao/auto-pairs'
 
 " Fzf
-Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf', { 'do': { -> fzf#install()  }  }
 Plug 'junegunn/fzf.vim'
-
-" Icons
-Plug 'ryanoasis/vim-devicons'
 
 call plug#end()
